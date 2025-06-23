@@ -7,7 +7,7 @@ This project showcases a **low-cost atmospheric balloon satellite (CanSat)** sys
 - **LoRa (433 MHz)** for long-range wireless telemetry  
 - **NEO-6M GPS** for location tracking  
 - **DS18B20** digital sensor for temperature measurements  
-- **SD Card** logging for offline data storage  d
+- **SD Card** logging for offline data storage 
 - Powered by **ESP32** microcontroller
 
 ## Components Used
